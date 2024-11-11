@@ -1,0 +1,29 @@
+
+
+.home{
+    background-color: cadetblue;
+}
+.home h1{
+    text-align: center;
+    padding: 10rem 0 10rem 0;
+}
+
+
+.sideBar{
+    display: flex;
+}
+
+.sideBar-menu{
+    width: 200px;
+    background-color: aqua;
+}
+
+.sideBar-menu-link{
+    margin-left: 10px;
+}
+
+.sideBar-main{
+    background-color: bisque;
+    padding: 50px;
+    width: 100%;
+}

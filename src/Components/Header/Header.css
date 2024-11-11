@@ -1,0 +1,21 @@
+
+
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 96%;
+}
+
+.header-area{
+    background-color: aqua;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0 2rem 0;
+}
+
+.menu a{
+    margin-left: 10px;
+}
